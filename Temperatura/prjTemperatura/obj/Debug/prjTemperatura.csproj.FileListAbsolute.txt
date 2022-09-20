@@ -1,0 +1,18 @@
+c:\users\aluno\documents\visual studio 2013\Projects\Temperatura\prjTemperatura\bin\Debug\prjTemperatura.exe.config
+c:\users\aluno\documents\visual studio 2013\Projects\Temperatura\prjTemperatura\bin\Debug\prjTemperatura.exe
+c:\users\aluno\documents\visual studio 2013\Projects\Temperatura\prjTemperatura\bin\Debug\prjTemperatura.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\Temperatura\prjTemperatura\obj\Debug\prjTemperatura.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2013\Projects\Temperatura\prjTemperatura\obj\Debug\prjTemperatura.Form1.resources
+c:\users\aluno\documents\visual studio 2013\Projects\Temperatura\prjTemperatura\obj\Debug\prjTemperatura.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2013\Projects\Temperatura\prjTemperatura\obj\Debug\prjTemperatura.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2013\Projects\Temperatura\prjTemperatura\obj\Debug\prjTemperatura.exe
+c:\users\aluno\documents\visual studio 2013\Projects\Temperatura\prjTemperatura\obj\Debug\prjTemperatura.pdb
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Temperatura (1)\Temperatura\prjTemperatura\bin\Debug\prjTemperatura.exe.config
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Temperatura (1)\Temperatura\prjTemperatura\obj\Debug\prjTemperatura.exe
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Temperatura (1)\Temperatura\prjTemperatura\obj\Debug\prjTemperatura.pdb
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Temperatura (1)\Temperatura\prjTemperatura\bin\Debug\prjTemperatura.exe
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Temperatura (1)\Temperatura\prjTemperatura\bin\Debug\prjTemperatura.pdb
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Temperatura (1)\Temperatura\prjTemperatura\obj\Debug\prjTemperatura.csprojResolveAssemblyReference.cache
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Temperatura (1)\Temperatura\prjTemperatura\obj\Debug\prjTemperatura.Form1.resources
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Temperatura (1)\Temperatura\prjTemperatura\obj\Debug\prjTemperatura.Properties.Resources.resources
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Temperatura (1)\Temperatura\prjTemperatura\obj\Debug\prjTemperatura.csproj.GenerateResource.Cache
